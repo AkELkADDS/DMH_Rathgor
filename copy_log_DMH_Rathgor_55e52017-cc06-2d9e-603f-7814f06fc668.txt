@@ -1,0 +1,356 @@
+====================================================== 
+   BG3 MOD BACKUP DETAILED LOG - DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668 
+   Mon 05/19/2025  7:17:48.30 
+====================================================== 
+ 
+BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
+Backup folder: C:\GIT_BG3\MOD_REPOS\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668 
+ 
+[FILE COPYING REPORT] 
+====================================================== 
+SECTION 1: FILES FOUND 
+------------------------------------------------------------------------ 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\meta.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\thumbnail.png 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668: 2 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\CharacterCreation\CharacterCreationAppearanceVisuals.tbl 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668: 1 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\meta.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\mod_publish_logo.png 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\GUI\metadata.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\Localization\English\english.xml 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668: 4 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\CharacterCreation\CharacterCreationAppearanceVisuals.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\Content\[PAK]_DMH_Rathgor\4d779899-7285-410d-9cb4-49938d941800.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\Content\[PAK]_DMH_Rathgor\c5a40f17-33e9-46ac-9183-3422d9a0f7f8.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\Content\[PAK]_DMH_Rathgor\c848b18a-7c45-4f13-846d-e455bc1ded0b.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DurgeMH\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_DMH\Chin\DGB_EL_MRath_Chin_DMH_MD_B.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DurgeMH\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_DMH\Chin\DGB_EL_MRath_Chin_DMH_MD_B.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DurgeMH\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_DMH\Jaw\DGB_EL_MRath_Jaw_DMH_MD_L.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DurgeMH\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_DMH\Jaw\DGB_EL_MRath_Jaw_DMH_MD_L.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DurgeMH\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_DMH\Jaw\DGB_EL_MRath_Jaw_DMH_MD_R.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DurgeMH\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_DMH\Jaw\DGB_EL_MRath_Jaw_DMH_MD_R.xml 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668: 10 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DurgeMH\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_DMH\Chin\DGB_EL_MRath_Chin_DMH_MD_B.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DurgeMH\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_DMH\Jaw\DGB_EL_MRath_Jaw_DMH_MD_L.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DurgeMH\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_DMH\Jaw\DGB_EL_MRath_Jaw_DMH_MD_R.GR2 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668: 3 
+ 
+[LOG] Total files found across all folders: 20 
+ 
+SECTION 2: COPY OPERATIONS 
+------------------------------------------------------------------------ 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\Projects\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668 to Projects\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668 
+[DEBUG] Using destination: Projects\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 7:17:51 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\
+     Dest : C:\GIT_BG3\MOD_REPOS\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\Projects\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		     689	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\meta.lsx100%  
+	    New File  		   5.9 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\thumbnail.png  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         1         1         0         0         0
+   Files :         2         2         0         0         0         0
+   Bytes :    5.91 m    5.91 m         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           3099613000 Bytes/sec.
+   Speed :           177361.278 MegaBytes/min.
+   Ended : Monday, May 19, 2025 7:17:51 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 2 
+[DEBUG] Successfully copied files: 2 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668: 
+      Total files: 2 
+      Copied successfully: 2 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\Editor\Mods\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668 to "Editor\Mods"\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668 
+[DEBUG] Using destination: Editor\Mods\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 7:17:53 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\
+     Dest : C:\GIT_BG3\MOD_REPOS\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\Editor\Mods\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		   20256	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\CharacterCreation\CharacterCreationAppearanceVisuals.tbl  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         2         2         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    19.7 k    19.7 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :            20256000 Bytes/sec.
+   Speed :            1159.057 MegaBytes/min.
+   Ended : Monday, May 19, 2025 7:17:53 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 1 
+[DEBUG] Successfully copied files: 1 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668: 
+      Total files: 1 
+      Copied successfully: 1 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\Mods\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668 to Mods\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668 
+[DEBUG] Using destination: Mods\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 7:17:55 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\
+     Dest : C:\GIT_BG3\MOD_REPOS\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\Mods\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		    6389	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\meta.lsx100%  
+	    New File  		   5.9 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\mod_publish_logo.png  0%  100%  
+	    New File  		    1141	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\GUI\metadata.lsf100%  
+	    New File  		    1660	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\Localization\English\english.xml100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         4         4         1         0         0         0
+   Files :         4         4         0         0         0         0
+   Bytes :    5.92 m    5.92 m         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           3103863500 Bytes/sec.
+   Speed :           177604.494 MegaBytes/min.
+   Ended : Monday, May 19, 2025 7:17:55 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 4 
+[DEBUG] Successfully copied files: 4 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668: 
+      Total files: 4 
+      Copied successfully: 4 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668 to Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668 
+[DEBUG] Using destination: Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 7:17:56 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\
+     Dest : C:\GIT_BG3\MOD_REPOS\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		   14979	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\CharacterCreation\CharacterCreationAppearanceVisuals.lsx100%  
+	    New File  		    2575	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\Content\[PAK]_DMH_Rathgor\4d779899-7285-410d-9cb4-49938d941800.lsf100%  
+	    New File  		    2746	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\Content\[PAK]_DMH_Rathgor\c5a40f17-33e9-46ac-9183-3422d9a0f7f8.lsf100%  
+	    New File  		    2575	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\Content\[PAK]_DMH_Rathgor\c848b18a-7c45-4f13-846d-e455bc1ded0b.lsf100%  
+	    New File  		   61528	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DurgeMH\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_DMH\Chin\DGB_EL_MRath_Chin_DMH_MD_B.GR2100%  
+	    New File  		     206	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DurgeMH\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_DMH\Chin\DGB_EL_MRath_Chin_DMH_MD_B.xml100%  
+	    New File  		  191068	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DurgeMH\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_DMH\Jaw\DGB_EL_MRath_Jaw_DMH_MD_L.GR2100%  
+	    New File  		     204	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DurgeMH\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_DMH\Jaw\DGB_EL_MRath_Jaw_DMH_MD_L.xml100%  
+	    New File  		  191068	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DurgeMH\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_DMH\Jaw\DGB_EL_MRath_Jaw_DMH_MD_R.GR2100%  
+	    New File  		     204	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DurgeMH\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_DMH\Jaw\DGB_EL_MRath_Jaw_DMH_MD_R.xml100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :        12        12         1         0         0         0
+   Files :        10        10         0         0         0         0
+   Bytes :   456.2 k   456.2 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           116788250 Bytes/sec.
+   Speed :            6682.677 MegaBytes/min.
+   Ended : Monday, May 19, 2025 7:17:56 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 10 
+[DEBUG] Successfully copied files: 10 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668: 
+      Total files: 10 
+      Copied successfully: 10 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\Generated\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668 to "Generated\Public"\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668 
+[DEBUG] Using destination: Generated\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 7:17:58 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\
+     Dest : C:\GIT_BG3\MOD_REPOS\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\Generated\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		   61528	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DurgeMH\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_DMH\Chin\DGB_EL_MRath_Chin_DMH_MD_B.GR2100%  
+	    New File  		  191068	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DurgeMH\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_DMH\Jaw\DGB_EL_MRath_Jaw_DMH_MD_L.GR2100%  
+	    New File  		  191068	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DurgeMH\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_DMH\Jaw\DGB_EL_MRath_Jaw_DMH_MD_R.GR2100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         9         9         1         0         0         0
+   Files :         3         3         0         0         0         0
+   Bytes :   433.2 k   433.2 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           147888000 Bytes/sec.
+   Speed :            8462.219 MegaBytes/min.
+   Ended : Monday, May 19, 2025 7:17:58 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 3 
+[DEBUG] Successfully copied files: 3 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668: 
+      Total files: 3 
+      Copied successfully: 3 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+SECTION 3: FALLBACK COPY ATTEMPTS 
+------------------------------------------------------------------------ 
+ 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 2 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 1 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 4 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 10 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 3 
+SECTION 4: FINAL SUMMARY 
+------------------------------------------------------------------------ 
+ 
+[SUMMARY] Total mod folders found: 1 
+[SUMMARY] Total files found: 20 
+[SUMMARY] Total files successfully copied: 40 
+ 
+[SUMMARY] All files were copied successfully 
+ 
+====================================================== 
