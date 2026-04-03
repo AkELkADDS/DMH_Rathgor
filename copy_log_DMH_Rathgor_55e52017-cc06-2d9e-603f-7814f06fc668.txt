@@ -1,6 +1,6 @@
 ====================================================== 
    BG3 MOD BACKUP DETAILED LOG - DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668 
-   Sat 04/04/2026  0:29:10.52 
+   Sat 04/04/2026  0:51:45.45 
 ====================================================== 
  
 BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
@@ -124,7 +124,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Saturday, April 4, 2026 12:29:13 AM
+  Started : Saturday, April 4, 2026 12:51:49 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\
      Dest : C:\GIT_BG3\MOD_REPOS\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\Projects\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\
 
@@ -135,7 +135,7 @@ SECTION 2: COPY OPERATIONS
 ------------------------------------------------------------------------------
 
 	    New File  		     689	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\meta.lsx100%  
-	    New File  		   5.9 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\thumbnail.png  8%  100%  
+	    New File  		   5.9 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\thumbnail.png  0%  100%  
 
 ------------------------------------------------------------------------------
 
@@ -148,7 +148,7 @@ SECTION 2: COPY OPERATIONS
 
    Speed :           6199226000 Bytes/sec.
    Speed :           354722.557 MegaBytes/min.
-   Ended : Saturday, April 4, 2026 12:29:13 AM
+   Ended : Saturday, April 4, 2026 12:51:49 AM
 
  
 [DEBUG] Counting source files 
@@ -174,7 +174,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Saturday, April 4, 2026 12:29:15 AM
+  Started : Saturday, April 4, 2026 12:51:51 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\
      Dest : C:\GIT_BG3\MOD_REPOS\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\Editor\Mods\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\
 
@@ -193,7 +193,7 @@ SECTION 2: COPY OPERATIONS
    Files :         1         1         0         0         0         0
    Bytes :    74.1 k    74.1 k         0         0         0         0
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
-   Ended : Saturday, April 4, 2026 12:29:15 AM
+   Ended : Saturday, April 4, 2026 12:51:51 AM
 
  
 [DEBUG] Counting source files 
@@ -219,7 +219,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Saturday, April 4, 2026 12:29:17 AM
+  Started : Saturday, April 4, 2026 12:51:52 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\
      Dest : C:\GIT_BG3\MOD_REPOS\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\Mods\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\
 
@@ -229,7 +229,7 @@ SECTION 2: COPY OPERATIONS
 
 ------------------------------------------------------------------------------
 
-	    New File  		    6389	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\meta.lsx100%  
+	    New File  		    6390	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\meta.lsx100%  
 	    New File  		   5.9 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\mod_publish_logo.png100%  
 	    New File  		    1141	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\GUI\metadata.lsf100%  
 	    New File  		    5713	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\Localization\English\english.xml100%  
@@ -243,9 +243,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           3105890000 Bytes/sec.
-   Speed :           177720.451 MegaBytes/min.
-   Ended : Saturday, April 4, 2026 12:29:17 AM
+   Speed :           3105890500 Bytes/sec.
+   Speed :           177720.479 MegaBytes/min.
+   Ended : Saturday, April 4, 2026 12:51:52 AM
 
  
 [DEBUG] Counting source files 
@@ -271,7 +271,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Saturday, April 4, 2026 12:29:18 AM
+  Started : Saturday, April 4, 2026 12:51:54 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\
      Dest : C:\GIT_BG3\MOD_REPOS\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\
 
@@ -340,9 +340,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           129966954 Bytes/sec.
-   Speed :            7436.768 MegaBytes/min.
-   Ended : Saturday, April 4, 2026 12:29:18 AM
+   Speed :            92234612 Bytes/sec.
+   Speed :            5277.706 MegaBytes/min.
+   Ended : Saturday, April 4, 2026 12:51:54 AM
 
  
 [DEBUG] Counting source files 
@@ -368,7 +368,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Saturday, April 4, 2026 12:29:20 AM
+  Started : Saturday, April 4, 2026 12:51:56 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\
      Dest : C:\GIT_BG3\MOD_REPOS\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\Generated\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\
 
@@ -404,9 +404,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           106194000 Bytes/sec.
-   Speed :            6076.469 MegaBytes/min.
-   Ended : Saturday, April 4, 2026 12:29:20 AM
+   Speed :           460174000 Bytes/sec.
+   Speed :           26331.367 MegaBytes/min.
+   Ended : Saturday, April 4, 2026 12:51:56 AM
 
  
 [DEBUG] Counting source files 
