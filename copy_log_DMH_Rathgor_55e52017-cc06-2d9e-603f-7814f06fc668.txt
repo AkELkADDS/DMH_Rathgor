@@ -1,6 +1,6 @@
 ====================================================== 
    BG3 MOD BACKUP DETAILED LOG - DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668 
-   Mon 05/19/2025  7:17:48.30 
+   Sat 04/04/2026  0:29:10.52 
 ====================================================== 
  
 BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
@@ -37,26 +37,78 @@ Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DMH_R
  
 Files found: 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\CharacterCreation\CharacterCreationAppearanceVisuals.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\Content\[PAK]_DMH_Krothar\3b663b40-de84-48f2-ae1d-de6fd49e92d9.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\Content\[PAK]_DMH_Krothar\79483b62-77c9-44e5-a308-4ccaddd005a8.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\Content\[PAK]_DMH_Krothar\b2917f87-0b3c-4687-8b64-a3cd3c1adc8b.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\Content\[PAK]_DMH_Krothar\c66a0f20-fd3e-43fd-96d2-470b528afc28.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\Content\[PAK]_DMH_Krothar\d5bd021d-1823-4095-971f-d5ba7b100484.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\Content\[PAK]_DMH_Krothar\e9770de0-a197-4141-9b79-dc225cd6c6a7.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\Content\[PAK]_DMH_Krothar\ea158c9e-93b4-4269-a016-01e1ee7a212f.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\Content\[PAK]_DMH_Krothar\ea9c4d7d-0380-481c-a271-e07e768950cb.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\Content\[PAK]_DMH_Krothar\f397627d-4825-4468-832a-c2a2be38965f.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\Content\[PAK]_DMH_Rathgor\4d779899-7285-410d-9cb4-49938d941800.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\Content\[PAK]_DMH_Rathgor\5fc3deec-4287-4620-b877-3fdfe8f59c84.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\Content\[PAK]_DMH_Rathgor\600dcb2b-40ca-40f9-9c9b-13e729e60f1e.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\Content\[PAK]_DMH_Rathgor\816ee20b-1108-40ed-a9d8-011a8f00d56b.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\Content\[PAK]_DMH_Rathgor\8c450b70-2bbb-4616-98ab-a44775943a45.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\Content\[PAK]_DMH_Rathgor\c5a40f17-33e9-46ac-9183-3422d9a0f7f8.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\Content\[PAK]_DMH_Rathgor\c848b18a-7c45-4f13-846d-e455bc1ded0b.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Chin\DGB_M_NKD_Head_Krothar_Chin_MA.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Chin\DGB_M_NKD_Head_Krothar_Chin_MA.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Crests\DGB_M_NKD_Head_Krothar_Top_MA_L.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Crests\DGB_M_NKD_Head_Krothar_Top_MA_L.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Crests\DGB_M_NKD_Head_Krothar_Top_MA_R.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Crests\DGB_M_NKD_Head_Krothar_Top_MA_R.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_MD_B_L.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_MD_B_L.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_MD_B_R.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_MD_B_R.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_MD_Chipped_L.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_MD_Chipped_L.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_MD_Chipped_R.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_MD_Chipped_R.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_MD_L.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_MD_L.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_MD_R.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_MD_R.xml 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DurgeMH\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_DMH\Chin\DGB_EL_MRath_Chin_DMH_MD_B.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DurgeMH\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_DMH\Chin\DGB_EL_MRath_Chin_DMH_MD_B.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DurgeMH\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_DMH\Jaw\DGB_EL_MRath_Jaw_DMH_MD_B_L.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DurgeMH\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_DMH\Jaw\DGB_EL_MRath_Jaw_DMH_MD_B_L.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DurgeMH\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_DMH\Jaw\DGB_EL_MRath_Jaw_DMH_MD_B_R.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DurgeMH\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_DMH\Jaw\DGB_EL_MRath_Jaw_DMH_MD_B_R.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DurgeMH\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_DMH\Jaw\DGB_EL_MRath_Jaw_DMH_MD_Chipped_L.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DurgeMH\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_DMH\Jaw\DGB_EL_MRath_Jaw_DMH_MD_Chipped_L.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DurgeMH\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_DMH\Jaw\DGB_EL_MRath_Jaw_DMH_MD_Chipped_R.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DurgeMH\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_DMH\Jaw\DGB_EL_MRath_Jaw_DMH_MD_Chipped_R.xml 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DurgeMH\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_DMH\Jaw\DGB_EL_MRath_Jaw_DMH_MD_L.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DurgeMH\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_DMH\Jaw\DGB_EL_MRath_Jaw_DMH_MD_L.xml 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DurgeMH\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_DMH\Jaw\DGB_EL_MRath_Jaw_DMH_MD_R.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DurgeMH\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_DMH\Jaw\DGB_EL_MRath_Jaw_DMH_MD_R.xml 
-Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668: 10 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668: 49 
  
 [LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668 
  
 Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Chin\DGB_M_NKD_Head_Krothar_Chin_MA.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Crests\DGB_M_NKD_Head_Krothar_Top_MA_L.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Crests\DGB_M_NKD_Head_Krothar_Top_MA_R.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_MD_B_L.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_MD_B_R.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_MD_Chipped_L.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_MD_Chipped_R.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_MD_L.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_MD_R.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DurgeMH\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_DMH\Chin\DGB_EL_MRath_Chin_DMH_MD_B.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DurgeMH\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_DMH\Jaw\DGB_EL_MRath_Jaw_DMH_MD_B_L.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DurgeMH\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_DMH\Jaw\DGB_EL_MRath_Jaw_DMH_MD_B_R.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DurgeMH\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_DMH\Jaw\DGB_EL_MRath_Jaw_DMH_MD_Chipped_L.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DurgeMH\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_DMH\Jaw\DGB_EL_MRath_Jaw_DMH_MD_Chipped_R.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DurgeMH\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_DMH\Jaw\DGB_EL_MRath_Jaw_DMH_MD_L.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DurgeMH\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_DMH\Jaw\DGB_EL_MRath_Jaw_DMH_MD_R.GR2 
-Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668: 3 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668: 16 
  
-[LOG] Total files found across all folders: 20 
+[LOG] Total files found across all folders: 72 
  
 SECTION 2: COPY OPERATIONS 
 ------------------------------------------------------------------------ 
@@ -72,7 +124,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Monday, May 19, 2025 7:17:51 AM
+  Started : Saturday, April 4, 2026 12:29:13 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\
      Dest : C:\GIT_BG3\MOD_REPOS\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\Projects\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\
 
@@ -83,7 +135,7 @@ SECTION 2: COPY OPERATIONS
 ------------------------------------------------------------------------------
 
 	    New File  		     689	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\meta.lsx100%  
-	    New File  		   5.9 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\thumbnail.png  0%  100%  
+	    New File  		   5.9 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\thumbnail.png  8%  100%  
 
 ------------------------------------------------------------------------------
 
@@ -94,9 +146,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           3099613000 Bytes/sec.
-   Speed :           177361.278 MegaBytes/min.
-   Ended : Monday, May 19, 2025 7:17:51 AM
+   Speed :           6199226000 Bytes/sec.
+   Speed :           354722.557 MegaBytes/min.
+   Ended : Saturday, April 4, 2026 12:29:13 AM
 
  
 [DEBUG] Counting source files 
@@ -122,7 +174,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Monday, May 19, 2025 7:17:53 AM
+  Started : Saturday, April 4, 2026 12:29:15 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\
      Dest : C:\GIT_BG3\MOD_REPOS\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\Editor\Mods\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\
 
@@ -132,20 +184,16 @@ SECTION 2: COPY OPERATIONS
 
 ------------------------------------------------------------------------------
 
-	    New File  		   20256	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\CharacterCreation\CharacterCreationAppearanceVisuals.tbl  0%  100%  
+	    New File  		   75943	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\CharacterCreation\CharacterCreationAppearanceVisuals.tbl100%  
 
 ------------------------------------------------------------------------------
 
                Total    Copied   Skipped  Mismatch    FAILED    Extras
-    Dirs :         2         2         1         0         0         0
+    Dirs :         6         6         1         0         0         0
    Files :         1         1         0         0         0         0
-   Bytes :    19.7 k    19.7 k         0         0         0         0
+   Bytes :    74.1 k    74.1 k         0         0         0         0
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
-
-
-   Speed :            20256000 Bytes/sec.
-   Speed :            1159.057 MegaBytes/min.
-   Ended : Monday, May 19, 2025 7:17:53 AM
+   Ended : Saturday, April 4, 2026 12:29:15 AM
 
  
 [DEBUG] Counting source files 
@@ -171,7 +219,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Monday, May 19, 2025 7:17:55 AM
+  Started : Saturday, April 4, 2026 12:29:17 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\
      Dest : C:\GIT_BG3\MOD_REPOS\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\Mods\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\
 
@@ -182,9 +230,9 @@ SECTION 2: COPY OPERATIONS
 ------------------------------------------------------------------------------
 
 	    New File  		    6389	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\meta.lsx100%  
-	    New File  		   5.9 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\mod_publish_logo.png  0%  100%  
+	    New File  		   5.9 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\mod_publish_logo.png100%  
 	    New File  		    1141	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\GUI\metadata.lsf100%  
-	    New File  		    1660	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\Localization\English\english.xml100%  
+	    New File  		    5713	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\Localization\English\english.xml100%  
 
 ------------------------------------------------------------------------------
 
@@ -195,9 +243,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           3103863500 Bytes/sec.
-   Speed :           177604.494 MegaBytes/min.
-   Ended : Monday, May 19, 2025 7:17:55 AM
+   Speed :           3105890000 Bytes/sec.
+   Speed :           177720.451 MegaBytes/min.
+   Ended : Saturday, April 4, 2026 12:29:17 AM
 
  
 [DEBUG] Counting source files 
@@ -223,7 +271,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Monday, May 19, 2025 7:17:56 AM
+  Started : Saturday, April 4, 2026 12:29:18 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\
      Dest : C:\GIT_BG3\MOD_REPOS\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\
 
@@ -233,12 +281,51 @@ SECTION 2: COPY OPERATIONS
 
 ------------------------------------------------------------------------------
 
-	    New File  		   14979	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\CharacterCreation\CharacterCreationAppearanceVisuals.lsx100%  
+	    New File  		   53261	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\CharacterCreation\CharacterCreationAppearanceVisuals.lsx100%  
+	    New File  		    2579	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\Content\[PAK]_DMH_Krothar\3b663b40-de84-48f2-ae1d-de6fd49e92d9.lsf100%  
+	    New File  		    2589	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\Content\[PAK]_DMH_Krothar\79483b62-77c9-44e5-a308-4ccaddd005a8.lsf100%  
+	    New File  		    2589	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\Content\[PAK]_DMH_Krothar\b2917f87-0b3c-4687-8b64-a3cd3c1adc8b.lsf100%  
+	    New File  		    2634	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\Content\[PAK]_DMH_Krothar\c66a0f20-fd3e-43fd-96d2-470b528afc28.lsf100%  
+	    New File  		    2634	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\Content\[PAK]_DMH_Krothar\d5bd021d-1823-4095-971f-d5ba7b100484.lsf100%  
+	    New File  		    2619	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\Content\[PAK]_DMH_Krothar\e9770de0-a197-4141-9b79-dc225cd6c6a7.lsf100%  
+	    New File  		    2579	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\Content\[PAK]_DMH_Krothar\ea158c9e-93b4-4269-a016-01e1ee7a212f.lsf100%  
+	    New File  		    2619	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\Content\[PAK]_DMH_Krothar\ea9c4d7d-0380-481c-a271-e07e768950cb.lsf100%  
+	    New File  		    2581	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\Content\[PAK]_DMH_Krothar\f397627d-4825-4468-832a-c2a2be38965f.lsf100%  
 	    New File  		    2575	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\Content\[PAK]_DMH_Rathgor\4d779899-7285-410d-9cb4-49938d941800.lsf100%  
+	    New File  		    2615	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\Content\[PAK]_DMH_Rathgor\5fc3deec-4287-4620-b877-3fdfe8f59c84.lsf100%  
+	    New File  		    2615	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\Content\[PAK]_DMH_Rathgor\600dcb2b-40ca-40f9-9c9b-13e729e60f1e.lsf100%  
+	    New File  		    2585	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\Content\[PAK]_DMH_Rathgor\816ee20b-1108-40ed-a9d8-011a8f00d56b.lsf100%  
+	    New File  		    2585	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\Content\[PAK]_DMH_Rathgor\8c450b70-2bbb-4616-98ab-a44775943a45.lsf100%  
 	    New File  		    2746	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\Content\[PAK]_DMH_Rathgor\c5a40f17-33e9-46ac-9183-3422d9a0f7f8.lsf100%  
 	    New File  		    2575	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\Content\[PAK]_DMH_Rathgor\c848b18a-7c45-4f13-846d-e455bc1ded0b.lsf100%  
+	    New File  		   57692	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Chin\DGB_M_NKD_Head_Krothar_Chin_MA.GR2100%  
+	    New File  		     197	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Chin\DGB_M_NKD_Head_Krothar_Chin_MA.xml100%  
+	    New File  		  290320	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Crests\DGB_M_NKD_Head_Krothar_Top_MA_L.GR2100%  
+	    New File  		     200	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Crests\DGB_M_NKD_Head_Krothar_Top_MA_L.xml100%  
+	    New File  		  290320	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Crests\DGB_M_NKD_Head_Krothar_Top_MA_R.GR2100%  
+	    New File  		     200	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Crests\DGB_M_NKD_Head_Krothar_Top_MA_R.xml100%  
+	    New File  		  147012	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_MD_B_L.GR2100%  
+	    New File  		     199	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_MD_B_L.xml100%  
+	    New File  		  147012	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_MD_B_R.GR2100%  
+	    New File  		     199	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_MD_B_R.xml100%  
+	    New File  		  171132	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_MD_Chipped_L.GR2100%  
+	    New File  		     205	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_MD_Chipped_L.xml100%  
+	    New File  		  171132	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_MD_Chipped_R.GR2100%  
+	    New File  		     205	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_MD_Chipped_R.xml100%  
+	    New File  		  185692	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_MD_L.GR2100%  
+	    New File  		     197	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_MD_L.xml100%  
+	    New File  		  185692	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_MD_R.GR2100%  
+	    New File  		     197	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_MD_R.xml100%  
 	    New File  		   61528	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DurgeMH\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_DMH\Chin\DGB_EL_MRath_Chin_DMH_MD_B.GR2100%  
 	    New File  		     206	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DurgeMH\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_DMH\Chin\DGB_EL_MRath_Chin_DMH_MD_B.xml100%  
+	    New File  		  159080	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DurgeMH\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_DMH\Jaw\DGB_EL_MRath_Jaw_DMH_MD_B_L.GR2100%  
+	    New File  		     206	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DurgeMH\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_DMH\Jaw\DGB_EL_MRath_Jaw_DMH_MD_B_L.xml100%  
+	    New File  		  159080	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DurgeMH\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_DMH\Jaw\DGB_EL_MRath_Jaw_DMH_MD_B_R.GR2100%  
+	    New File  		     206	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DurgeMH\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_DMH\Jaw\DGB_EL_MRath_Jaw_DMH_MD_B_R.xml100%  
+	    New File  		  176608	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DurgeMH\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_DMH\Jaw\DGB_EL_MRath_Jaw_DMH_MD_Chipped_L.GR2100%  
+	    New File  		     212	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DurgeMH\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_DMH\Jaw\DGB_EL_MRath_Jaw_DMH_MD_Chipped_L.xml100%  
+	    New File  		  176608	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DurgeMH\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_DMH\Jaw\DGB_EL_MRath_Jaw_DMH_MD_Chipped_R.GR2100%  
+	    New File  		     212	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DurgeMH\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_DMH\Jaw\DGB_EL_MRath_Jaw_DMH_MD_Chipped_R.xml100%  
 	    New File  		  191068	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DurgeMH\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_DMH\Jaw\DGB_EL_MRath_Jaw_DMH_MD_L.GR2100%  
 	    New File  		     204	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DurgeMH\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_DMH\Jaw\DGB_EL_MRath_Jaw_DMH_MD_L.xml100%  
 	    New File  		  191068	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DurgeMH\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_DMH\Jaw\DGB_EL_MRath_Jaw_DMH_MD_R.GR2100%  
@@ -247,23 +334,23 @@ SECTION 2: COPY OPERATIONS
 ------------------------------------------------------------------------------
 
                Total    Copied   Skipped  Mismatch    FAILED    Extras
-    Dirs :        12        12         1         0         0         0
-   Files :        10        10         0         0         0         0
-   Bytes :   456.2 k   456.2 k         0         0         0         0
+    Dirs :        19        19         1         0         0         0
+   Files :        49        49         0         0         0         0
+   Bytes :    2.72 m    2.72 m         0         0         0         0
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           116788250 Bytes/sec.
-   Speed :            6682.677 MegaBytes/min.
-   Ended : Monday, May 19, 2025 7:17:56 AM
+   Speed :           129966954 Bytes/sec.
+   Speed :            7436.768 MegaBytes/min.
+   Ended : Saturday, April 4, 2026 12:29:18 AM
 
  
 [DEBUG] Counting source files 
-[DEBUG] Total files counted: 10 
-[DEBUG] Successfully copied files: 10 
+[DEBUG] Total files counted: 49 
+[DEBUG] Successfully copied files: 49 
 [LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668: 
-      Total files: 10 
-      Copied successfully: 10 
+      Total files: 49 
+      Copied successfully: 49 
       Skipped: 0 
       Mismatched: 0 
       Failed: 0 
@@ -281,7 +368,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Monday, May 19, 2025 7:17:58 AM
+  Started : Saturday, April 4, 2026 12:29:20 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\
      Dest : C:\GIT_BG3\MOD_REPOS\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\Generated\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\
 
@@ -291,30 +378,43 @@ SECTION 2: COPY OPERATIONS
 
 ------------------------------------------------------------------------------
 
+	    New File  		  290320	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Crests\DGB_M_NKD_Head_Krothar_Top_MA_L.GR2100%  
+	    New File  		  290320	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Crests\DGB_M_NKD_Head_Krothar_Top_MA_R.GR2100%  
+	    New File  		   57692	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Chin\DGB_M_NKD_Head_Krothar_Chin_MA.GR2100%  
+	    New File  		  147012	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_MD_B_L.GR2100%  
+	    New File  		  147012	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_MD_B_R.GR2100%  
+	    New File  		  171132	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_MD_Chipped_L.GR2100%  
+	    New File  		  171132	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_MD_Chipped_R.GR2100%  
+	    New File  		  185692	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_MD_L.GR2100%  
+	    New File  		  185692	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_MD_R.GR2100%  
 	    New File  		   61528	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DurgeMH\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_DMH\Chin\DGB_EL_MRath_Chin_DMH_MD_B.GR2100%  
+	    New File  		  159080	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DurgeMH\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_DMH\Jaw\DGB_EL_MRath_Jaw_DMH_MD_B_L.GR2100%  
+	    New File  		  159080	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DurgeMH\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_DMH\Jaw\DGB_EL_MRath_Jaw_DMH_MD_B_R.GR2100%  
+	    New File  		  176608	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DurgeMH\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_DMH\Jaw\DGB_EL_MRath_Jaw_DMH_MD_Chipped_L.GR2100%  
+	    New File  		  176608	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DurgeMH\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_DMH\Jaw\DGB_EL_MRath_Jaw_DMH_MD_Chipped_R.GR2100%  
 	    New File  		  191068	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DurgeMH\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_DMH\Jaw\DGB_EL_MRath_Jaw_DMH_MD_L.GR2100%  
 	    New File  		  191068	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668\DurgeMH\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_DMH\Jaw\DGB_EL_MRath_Jaw_DMH_MD_R.GR2100%  
 
 ------------------------------------------------------------------------------
 
                Total    Copied   Skipped  Mismatch    FAILED    Extras
-    Dirs :         9         9         1         0         0         0
-   Files :         3         3         0         0         0         0
-   Bytes :   433.2 k   433.2 k         0         0         0         0
+    Dirs :        15        15         1         0         0         0
+   Files :        16        16         0         0         0         0
+   Bytes :    2.63 m    2.63 m         0         0         0         0
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           147888000 Bytes/sec.
-   Speed :            8462.219 MegaBytes/min.
-   Ended : Monday, May 19, 2025 7:17:58 AM
+   Speed :           106194000 Bytes/sec.
+   Speed :            6076.469 MegaBytes/min.
+   Ended : Saturday, April 4, 2026 12:29:20 AM
 
  
 [DEBUG] Counting source files 
-[DEBUG] Total files counted: 3 
-[DEBUG] Successfully copied files: 3 
+[DEBUG] Total files counted: 16 
+[DEBUG] Successfully copied files: 16 
 [LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668: 
-      Total files: 3 
-      Copied successfully: 3 
+      Total files: 16 
+      Copied successfully: 16 
       Skipped: 0 
       Mismatched: 0 
       Failed: 0 
@@ -339,17 +439,17 @@ SECTION 3: FALLBACK COPY ATTEMPTS
 [LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668 
 [LOG] Xcopy completed with code: 0 
 [LOG] Xcopy fallback successful 
-[LOG] Files copied by xcopy: 10 
+[LOG] Files copied by xcopy: 49 
 [LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668 
 [LOG] Xcopy completed with code: 0 
 [LOG] Xcopy fallback successful 
-[LOG] Files copied by xcopy: 3 
+[LOG] Files copied by xcopy: 16 
 SECTION 4: FINAL SUMMARY 
 ------------------------------------------------------------------------ 
  
 [SUMMARY] Total mod folders found: 1 
-[SUMMARY] Total files found: 20 
-[SUMMARY] Total files successfully copied: 40 
+[SUMMARY] Total files found: 72 
+[SUMMARY] Total files successfully copied: 144 
  
 [SUMMARY] All files were copied successfully 
  
